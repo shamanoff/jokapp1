@@ -2,6 +2,7 @@ package ac.learn.jokeapp;
 import ac.learn.jokeserver.*;
 
 public class Main {
+
     public static void main(String[] args) {
 
         final int NUM_JOKES = 20;
